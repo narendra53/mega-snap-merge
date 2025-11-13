@@ -17,7 +17,7 @@ No installation required. Just download and run.
 ![Dashboard](https://github.com/user-attachments/assets/74e5f197-da95-4f3f-bb16-4667df4b50d4)
 )
 
-### Front/Back Photo Export  
+### Front/Back Photo in one Photo Export  
 ![Photo Export] ![Front_back Photo](https://github.com/user-attachments/assets/16109ab4-c03d-4d4b-b2ba-12991aef70e0)
 
 
@@ -37,7 +37,7 @@ Learn how to use Mega Snap Merge:
 
 ## ✨ Key Features
 
-- 📸 **Export Front/Back Citizenship Photos to A4**  
+- 📸 **Export Front/Back Citizenship Photos in one Page**  
   Ideal for Nepali citizenship, voter ID, or license documents. Export as JPEG or PDF.
 
 - 📄 **Combine Front and Back of a Document on One Page**  
