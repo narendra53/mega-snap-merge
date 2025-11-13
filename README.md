@@ -31,7 +31,7 @@ No installation required. Just download and run.
 ## 🎥 Video Tutorial
 
 Learn how to use Mega Snap Merge:  
-[![Watch on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/jXJlPggINI8?si=TZtFS4GVPTyhZTqE)
+![▶️ Watch the video](https://youtu.be/jXJlPggINI8?si=TZtFS4GVPTyhZTqE)
 
 ---
 
