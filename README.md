@@ -1,4 +1,4 @@
-# Mega Snap Merge v9.2.1 – Free Document Scanner & PDF Merger for Windows
+# Mega Snap Merge v9.2.2 – Free Document Scanner & PDF Merger for Windows
 
 **Mega Snap Merge** is a free, portable desktop tool for Windows 7 and above.  
 Designed for fast, offline document processing — perfect for Nepali users, cooperatives, and anyone needing to scan, merge, and export documents without installing anything.
