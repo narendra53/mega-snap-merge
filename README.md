@@ -7,7 +7,7 @@ Designed for fast, offline document processing — perfect for Nepali users, coo
 
 ## 📥 Download Mega Snap Merge
 
-👉 [Download MegaSnapMerge.exe](https://github.com/narendra53/mega-snap-merge/releases/download/v9.2.1/Mega.Snap.Merge.v.9.2.2.exe)  
+👉 [Download MegaSnapMerge.exe](https://github.com/narendra53/mega-snap-merge/releases/download/v9.2.1/Mega.Snap.Merge.v9.2.2.exe)  
 No installation required. Just download and run.
 
 ---
