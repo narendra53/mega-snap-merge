@@ -1,77 +1,53 @@
-# ✅ **Privacy Policy for Mega Snap Merge**
 
+# ✅ **Privacy Policy for Mega Snap Merge**  
 **Last updated: 2025**
 
-**Mega Snap Merge**, developed by **Mega Info Tech**, is designed to help users scan, merge, and export documents efficiently. We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what data the app collects, how it is used, and your rights as a user.
+**Mega Snap Merge**, developed by **Mega Info Tech**, is an offline desktop application designed for scanning, merging, and exporting documents. We respect your privacy and are committed to protecting your information.
 
 ---
 
-## **1. Information We Collect**
-Mega Snap Merge is an **offline-first** application. The app does **not** automatically collect, store, or transmit any personal data to us or to third parties.
-
-However, the following information may be processed **locally on your device**:
-
-- Photos or documents you choose to import  
-- Images you capture using your device camera  
-- Files you merge, convert, or export  
-
-This data stays **on your device** and is **not uploaded** to any server by Mega Info Tech.
+## **1. Information We Collect**  
+Mega Snap Merge does **not** collect, store, or transmit any personal information.  
+All files you open, scan, or merge remain **on your device only**.
 
 ---
 
-## **2. How We Use Your Information**
-All processing happens **locally** on your device. The app uses your selected photos or documents only to:
-
-- Merge images or PDFs  
-- Scan and enhance documents  
-- Export files you request  
-
-We do **not** access, view, or store your files.
+## **2. How Your Data Is Used**  
+Any images or documents you choose to process are used **solely for the purpose of merging, scanning, or exporting**.  
+The app does **not** upload, share, or send your data anywhere.
 
 ---
 
-## **3. No Data Transmission**
-Mega Snap Merge does **not**:
+## **3. Permissions**  
+The app may request access to:
 
-- Send data to external servers  
-- Share data with third parties  
-- Use analytics, tracking, or advertising SDKs  
-- Collect personally identifiable information  
+- **File system** — to open and save documents  
+- **Local device resources** — required for offline processing  
 
-Your documents remain **private and under your control**.
+These permissions are used only to perform the features you choose.
 
 ---
 
-## **4. Permissions**
-The app may request the following permissions:
-
-- **Camera access** — to capture photos or scan documents  
-- **Storage access** — to import and export files  
-
-These permissions are used **only** for the features you choose to use.
+## **4. No Data Sharing**  
+Mega Snap Merge does **not** share data with third parties.  
+We do not use analytics, tracking tools, or advertising services.
 
 ---
 
-## **5. Third‑Party Services**
-Mega Snap Merge does **not** integrate with any third‑party services that collect user data.
+## **5. Children’s Privacy**  
+The app does not target children and does not collect any data from users of any age.
 
 ---
 
-## **6. Children’s Privacy**
-Mega Snap Merge does not target children and does not knowingly collect personal information from users of any age.
+## **6. Changes to This Policy**  
+We may update this policy if needed. Any changes will be posted on the same page where this policy is hosted.
 
 ---
 
-## **7. Changes to This Policy**
-We may update this Privacy Policy to reflect improvements or legal requirements. Updates will be posted on the same page where this policy is hosted.
-
----
-
-## **8. Contact Us**
-If you have any questions about this Privacy Policy, you may contact us at:
+## **7. Contact Us**  
+For questions about this Privacy Policy, contact:
 
 **Mega Info Tech**  
 Email: *narendrask8@gmail.com*  
-Location: Kanchanpur,Nepal  
-
+Location: Nepal  
 
