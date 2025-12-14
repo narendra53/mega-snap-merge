@@ -1,4 +1,3 @@
-
 # ✅ **Privacy Policy for Mega Snap Merge**  
 **Last updated: 2025**
 
@@ -13,7 +12,7 @@ All files you open, scan, or merge remain **on your device only**.
 ---
 
 ## **2. How Your Data Is Used**  
-Any images or documents you choose to process are used **solely for the purpose of merging, scanning, or exporting**.  
+Any images or documents you choose to process are used **solely for merging, scanning, or exporting**.  
 The app does **not** upload, share, or send your data anywhere.
 
 ---
@@ -28,26 +27,32 @@ These permissions are used only to perform the features you choose.
 
 ---
 
-## **4. No Data Sharing**  
+## **4. Use of runFullTrust Capability**  
+Mega Snap Merge uses the **runFullTrust** capability because it is a Win32 desktop application packaged with MSIX. This capability allows the app to perform local file operations and run native processing components.  
+All processing occurs **locally on your device**, and no data is transmitted externally.
+
+---
+
+## **5. No Data Sharing**  
 Mega Snap Merge does **not** share data with third parties.  
 We do not use analytics, tracking tools, or advertising services.
 
 ---
 
-## **5. Children’s Privacy**  
+## **6. Children’s Privacy**  
 The app does not target children and does not collect any data from users of any age.
 
 ---
 
-## **6. Changes to This Policy**  
+## **7. Changes to This Policy**  
 We may update this policy if needed. Any changes will be posted on the same page where this policy is hosted.
 
 ---
 
-## **7. Contact Us**  
+## **8. Contact Us**  
 For questions about this Privacy Policy, contact:
 
 **Mega Info Tech**  
 Email: *narendrask8@gmail.com*  
-Location: Nepal  
+Location: Nepal
 
