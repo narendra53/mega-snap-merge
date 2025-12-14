@@ -54,5 +54,5 @@ For questions about this Privacy Policy, contact:
 
 **Mega Info Tech**  
 Email: *narendrask8@gmail.com*  
-Location: Nepal
+Location: Kanchanpur, Nepal
 
